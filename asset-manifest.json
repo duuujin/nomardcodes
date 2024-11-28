@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/nomardcodes/static/js/main.68631b5a.js",
+    "main.js": "/nomardcodes/static/js/main.0b075d0a.js",
     "index.html": "/nomardcodes/index.html",
-    "main.68631b5a.js.map": "/nomardcodes/static/js/main.68631b5a.js.map"
+    "main.0b075d0a.js.map": "/nomardcodes/static/js/main.0b075d0a.js.map"
   },
   "entrypoints": [
-    "static/js/main.68631b5a.js"
+    "static/js/main.0b075d0a.js"
   ]
 }
